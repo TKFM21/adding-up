@@ -1,0 +1,11 @@
+{
+  "name": "adding-up",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:TKFM21/adding-up.git",
+  "author": "TKFM21 <tkzwfm21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
